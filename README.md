@@ -1,2 +1,6 @@
-# Recruitment-system
-A web-based Recruitment System developed to manage job vacancies, candidate information, applications, and the recruitment process. This project is created for academic demonstration of Software Configuration Management using GitHub.
+# Recruitment System
+This project is created for academic demonstration purpose only.
+Software Configuration Management using GitHub.
+Student Name: S.Sai Charan Reddy
+Roll Number: 25B81A6640
+Class: CSM-A
